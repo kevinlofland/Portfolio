@@ -1,0 +1,70 @@
+body{
+    background-image: url("../images/vadim-kaipov-VS-WRkyuax4-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+
+}
+
+h1{
+color: orange;
+background-color: black;
+
+}
+
+.navbar {
+    padding-top: 0rem;
+    padding-bottom: 0rem;
+    background-color: black;
+}
+
+h5{background-color: black;
+color: gold;
+}
+
+.card {
+    position: relative;
+    top: 100px;
+    left:600px;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #e9ecef;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 87%;
+    color: black;
+    }
+
+.btn-primary {
+    position: relative;
+    top: 100px;
+
+}
+
+
+
+.mb-3 {
+    position: relative;
+    top: 200px;
+    left: 500px;
+    display: block;
+    color: red;
+    block-size: 50px;
+    width: 500px;
+}
+
+
+
+
+
+
+     
+
+
+
+
+
+
+
